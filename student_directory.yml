@@ -1,0 +1,9 @@
+--- !ruby/object:Student
+name: Roman
+email: Rome.Gun@gmail.com
+--- !ruby/object:Student
+name: Roman
+email: xxxxxxxxx
+skydiving: Yup
+fun_fact: I like to move it move it
+--- !ruby/object:Student {}
