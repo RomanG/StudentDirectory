@@ -1,9 +1,30 @@
 --- !ruby/object:Student
-name: Roman
-email: Rome.Gun@gmail.com
+name: Constantin
+email: mitides.constantin@gmail.com
+skydiving: 'no'
+fun_fact: I can speak greek
+reason_for_joining: I want to learn how to code
+--- !ruby/object:Student
+name: Constantin
+email: mitides.constantin@gmail.com
+skydiving: 'no'
+fun_fact: I can speak greek
+reason_for_joining: I want to learn how to code
+--- !ruby/object:Student
+name: Constantin
+email: mitides.constantin@gmail.com
+skydiving: 'no'
+fun_fact: I can speak greek
+reason_for_joining: I want to learn how to code
 --- !ruby/object:Student
 name: Roman
-email: xxxxxxxxx
+email: Rome.Gun@Gmail.com
 skydiving: Yup
-fun_fact: I like to move it move it
---- !ruby/object:Student {}
+fun_fact: I'm calling it now, I liked trap before it was cool
+reason_for_joining: To learn!
+--- !ruby/object:Student
+name: Roman
+email: Rome.Gun@Gmail.com
+skydiving: Yup
+fun_fact: I'm calling it now, I liked trap before it was cool
+reason_for_joining: To learn!
