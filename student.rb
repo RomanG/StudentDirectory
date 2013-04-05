@@ -22,9 +22,11 @@ class Student < Person
 
   # TODO - Persists this Instructor object to the database
   #
+  def to_s
+    "ID: #{self.id}"
   def save
     # Build a String of SQL, that will insert all the attributes into the persons table
-
+sql = "insert into people ('name', ) values (?,?,?,?)"
     # Execute the SQL on the @@db object
   end
 
